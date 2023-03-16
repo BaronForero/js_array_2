@@ -47,18 +47,18 @@
 
 // ---------------------------- Übung lev1_4: map()  ---------------------------- 
 
-let FarrZuCel = () => {
+// let FarrZuCel = () => {
 
 
-    let fahrenheit = [0, 32, 45, 50, 75, 80, 99, 120];
+//     let fahrenheit = [0, 32, 45, 50, 75, 80, 99, 120];
 
 
-    let celcius = fahrenheit.map((elt) => {
-        return ((elt - 32) / 1.8).toFixed()
-    })
-    console.log(celcius);
-}
-FarrZuCel()
+//     let celcius = fahrenheit.map((elt) => {
+//         return ((elt - 32) / 1.8).toFixed(2)
+//     })
+//     console.log(celcius);
+// }
+// FarrZuCel()
 
 // ---------------------------- Übung lev1_5: map()  ---------------------------- 
 
